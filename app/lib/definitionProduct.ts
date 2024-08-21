@@ -11,7 +11,7 @@ export type Product = {
     status:'on'|'off';
 };
 
-export type LatestProduct = Pick<Product, 'id'|'name'|'image_url'|'price'|'date'|'amount'>
+export type LatestProduct = Pick<Product, 'id'|'name'|'image_url'>
 
 export type AmountOfProducts = Omit<Product, 'amount'> & {
     amount: number;
@@ -20,8 +20,9 @@ export type AmountOfProducts = Omit<Product, 'amount'> & {
 export type ProductTable = {
     id: string;
     name: string; 
-    image_url: string;
     price: number;
-    amount: number;
+    image_url: string;
     date: string;
+    amount: number;
+    status:'on'|'off';
 }

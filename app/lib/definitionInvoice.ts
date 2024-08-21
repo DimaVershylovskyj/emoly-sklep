@@ -28,3 +28,10 @@ export type InvoicesTable = {
     amount: number;
     status: 'pending' | 'paid' | 'canceled';
 };
+
+export type InvoiceForm = {
+    id: string;
+    customer_id: string;
+    amount: number;
+    status: 'pending' | 'paid';
+  };
