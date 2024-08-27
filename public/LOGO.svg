@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300mm"
+   height="300mm"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg905"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs902" />
+  <g
+     id="layer1">
+    <g
+       id="g2246"
+       transform="translate(5.6141186,1.8918205)">
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:77.313px;line-height:0%;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print Bold';text-align:center;text-anchor:middle;fill:#09334e;fill-rule:evenodd;stroke-width:3.04382;stroke-linejoin:bevel"
+         x="143.8385"
+         y="171.00385"
+         id="text1150"><tspan
+           id="tspan1148"
+           style="writing-mode:lr-tb;stroke-width:3.04382"
+           x="143.8385"
+           y="171.00385"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';writing-mode:lr-tb;direction:ltr;stroke-width:3.04382"
+             id="tspan1210">LOGO</tspan></tspan></text>
+      <rect
+         style="opacity:1;fill:none;fill-rule:evenodd;stroke:#09334e;stroke-width:5.292;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1334"
+         width="225.29683"
+         height="149.67546"
+         x="31.737467"
+         y="73.270447"
+         ry="0"
+         rx="0" />
+    </g>
+  </g>
+</svg>

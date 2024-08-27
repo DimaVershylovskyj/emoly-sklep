@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300mm"
+   height="300mm"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg905"
+   inkscape:export-filename="LOGO"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="LOGOTEST.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview907"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     borderlayer="true"
+     showborder="false"
+     shape-rendering="auto"
+     showguides="true"
+     inkscape:zoom="0.67526655"
+     inkscape:cx="347.27027"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,-1"
+       id="guide2248"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,300"
+       orientation="1,0"
+       id="guide2250"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="300,300"
+       orientation="1,0"
+       id="guide2252"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0.70710678,-0.70710678"
+       id="guide2254"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,300"
+       orientation="-0.70710678,-0.70710678"
+       id="guide2256"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="35.360596,227.80827"
+       orientation="0,-1"
+       id="guide2258"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="35.360596,72.84081"
+       orientation="0,-1"
+       id="guide2260"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs902" />
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2246"
+       transform="translate(5.6141186,1.8918205)">
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:77.313px;line-height:0%;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print Bold';text-align:center;text-anchor:middle;fill:#09334e;fill-rule:evenodd;stroke-width:3.04382;stroke-linejoin:bevel"
+         x="143.8385"
+         y="171.00385"
+         id="text1150"><tspan
+           sodipodi:role="line"
+           id="tspan1148"
+           style="writing-mode:lr-tb;stroke-width:3.04382"
+           x="143.8385"
+           y="171.00385"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';writing-mode:lr-tb;direction:ltr;stroke-width:3.04382"
+             id="tspan1210">LOGO</tspan></tspan></text>
+      <rect
+         style="opacity:1;fill:none;fill-rule:evenodd;stroke:#09334e;stroke-width:5.292;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1334"
+         width="225.29683"
+         height="149.67546"
+         x="31.737467"
+         y="73.270447"
+         ry="0"
+         rx="0" />
+    </g>
+  </g>
+</svg>
