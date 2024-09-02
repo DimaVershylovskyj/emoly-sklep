@@ -13,7 +13,7 @@ export default function Page(){
                 <code className="font-mono font-bold">app/page.tsx</code>
                 </p>
                 <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:size-auto lg:bg-none">
-                <a className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0" href="#" >By{" "}
+                <a className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0" href="/dashboard" >By{" "}
                     <Image className="dark:invert" src="/LOGO.svg" alt="" width={100} height={24} priority />
                 </a>
                 </div>
@@ -58,19 +58,19 @@ export default function Page(){
             </div>
 
             <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
-                <a href="#" className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
+                <a href="/dashboard" className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
                 <h2 className="mb-3 text-2xl font-semibold"> Docs{" "}
                     <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none"> -&gt; </span>
                 </h2>
                 <p className="m-0 max-w-[30ch] text-sm opacity-50"> Find in-depth information</p>
                 </a>
-                <a href="#" className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
+                <a href="/dashboard" className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
                 <h2 className="mb-3 text-2xl font-semibold"> Docs{" "}
                     <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none"> -&gt; </span>
                 </h2>
                 <p className="m-0 max-w-[30ch] text-sm opacity-50"> Find in-depth information</p>
                 </a>
-                <a href="#" className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
+                <a href="/dashboard" className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
                 <h2 className="mb-3 text-2xl font-semibold"> Docs{" "}
                     <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none"> -&gt; </span>
                 </h2>
